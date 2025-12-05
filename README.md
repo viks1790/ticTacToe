@@ -1,6 +1,6 @@
 # Tic-Tac-Toe React Native App
 
-A production-quality Tic-Tac-Toe mobile app built with React Native and TypeScript.
+A beautifully crafted Tic Tac Toe game built with React Native as a demonstration of Vibe Coding using Gemini 3 Pro + AntiGravity. Includes full game logic, AI opponent (Minimax), animations, restart & score system, and player setup. This repo is open for improvements — contribute UI redesigns, optimizations, or new game modes via pull requests.
 
 ## Features
 
